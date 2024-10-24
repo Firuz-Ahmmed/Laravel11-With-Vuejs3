@@ -1,0 +1,14 @@
+<template>
+    <h1 class="alert alert-success text-center">Laravel-11 & Vue-3 CRUD</h1>
+    <div class="container">
+      <RouterView></RouterView>
+    </div>
+  </template>
+  
+  <script>
+  export default {
+    name: "App",
+  };
+  </script>
+  
+            
